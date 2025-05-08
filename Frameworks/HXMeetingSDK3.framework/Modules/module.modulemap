@@ -1,0 +1,6 @@
+framework module HXMeetingSDK3 {
+  umbrella header "HXMeetingSDK3.h"
+  export *
+
+  module * { export * }
+}
